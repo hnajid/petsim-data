@@ -1,14 +1,25 @@
 [
-  { "id": "code_1", "code": "pet-code99", "reward": "Exclusive in-game reward", "status": "Unverified" },
-  { "id": "code_2", "code": "pet-code2024", "reward": "Exclusive in-game reward", "status": "Unverified" },
-  { "id": "code_3", "code": "TitanicFireDragon", "reward": "Merch / exclusive reward", "status": "Unverified" },
-  { "id": "code_4", "code": "CatHoverboard", "reward": "Hoverboard / merch reward", "status": "Unverified" },
-  { "id": "code_5", "code": "DamagePotionV", "reward": "Potion reward", "status": "Unverified" },
+  { "id":"1","code":"pet-code99","reward":"Free Reward","status":"Active" },
+  { "id":"2","code":"pet-code2024","reward":"Free Reward","status":"Active" },
+  { "id":"3","code":"TitanicFireDragon","reward":"Exclusive Reward","status":"Active" },
+  { "id":"4","code":"CatHoverboard","reward":"Hoverboard","status":"Active" },
+  { "id":"5","code":"DamagePotionV","reward":"Potion","status":"Active" },
 
-  { "id": "code_6", "code": "LuckyPotionV", "reward": "Potion reward", "status": "Expired" },
-  { "id": "code_7", "code": "BagOfDiamonds", "reward": "Diamonds reward", "status": "Expired" },
-  { "id": "code_8", "code": "ExclusiveDragonEgg", "reward": "Exclusive egg reward", "status": "Expired" },
-  { "id": "code_9", "code": "HugeCalestialDragon", "reward": "Huge pet reward", "status": "Expired" },
-  { "id": "code_10", "code": "HugeUnicornDragon", "reward": "Huge pet reward", "status": "Expired" },
-  { "id": "code_11", "code": "BallonHoverboard", "reward": "Hoverboard reward", "status": "Expired" }
+  { "id":"6","code":"pet-d67518012","reward":"Unknown","status":"Expired" },
+  { "id":"7","code":"pet-45a33a2dca","reward":"Unknown","status":"Expired" },
+  { "id":"8","code":"pet-259e210a1b","reward":"Unknown","status":"Expired" },
+  { "id":"9","code":"S7MJHEKAABC8","reward":"Unknown","status":"Expired" },
+  { "id":"10","code":"HDVR2X95RS6L","reward":"Unknown","status":"Expired" },
+  { "id":"11","code":"VWJ33JE6SLED","reward":"Unknown","status":"Expired" },
+
+  { "id":"12","code":"LuckyPotionV","reward":"Potion","status":"Expired" },
+  { "id":"13","code":"BagOfDiamonds","reward":"Diamonds","status":"Expired" },
+  { "id":"14","code":"ExclusiveDragonEgg","reward":"Egg","status":"Expired" },
+  { "id":"15","code":"HugeCalestialDragon","reward":"Huge Pet","status":"Expired" },
+  { "id":"16","code":"HugeUnicornDragon","reward":"Huge Pet","status":"Expired" },
+  { "id":"17","code":"BallonHoverboard","reward":"Hoverboard","status":"Expired" },
+
+  { "id":"18","code":"pet-4060e7deb6","reward":"Unknown","status":"Expired" },
+  { "id":"19","code":"DPETUJ44AB89","reward":"Unknown","status":"Expired" },
+  { "id":"20","code":"PFB96CG9472D","reward":"Unknown","status":"Expired" }
 ]
