@@ -1,0 +1,38 @@
+[
+  {
+    "id": "huge_cat",
+    "name": "Huge Cat",
+    "category": "Huge",
+    "rarity": "Exclusive",
+    "demand": "High",
+    "imageName": "pet_placeholder",
+    "normalValue": 12500,
+    "goldenValue": 21000,
+    "rainbowValue": 38000,
+    "shinyValue": 52000
+  },
+  {
+    "id": "huge_dog",
+    "name": "Huge Dog",
+    "category": "Huge",
+    "rarity": "Exclusive",
+    "demand": "Medium",
+    "imageName": "pet_placeholder",
+    "normalValue": 9800,
+    "goldenValue": 17000,
+    "rainbowValue": 30000,
+    "shinyValue": 44000
+  },
+  {
+    "id": "titanic_cat",
+    "name": "Titanic Cat",
+    "category": "Titanic",
+    "rarity": "Exclusive",
+    "demand": "Very High",
+    "imageName": "pet_placeholder",
+    "normalValue": 95000,
+    "goldenValue": 145000,
+    "rainbowValue": 230000,
+    "shinyValue": 310000
+  }
+]
