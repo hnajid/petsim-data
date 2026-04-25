@@ -1,0 +1,20 @@
+[
+  {
+    "id": "code_1",
+    "code": "PETS99",
+    "reward": "Free rewards",
+    "status": "Active"
+  },
+  {
+    "id": "code_2",
+    "code": "LUCKYDAY",
+    "reward": "Luck boost",
+    "status": "Active"
+  },
+  {
+    "id": "code_3",
+    "code": "THANKYOU",
+    "reward": "Bonus gift",
+    "status": "Expired"
+  }
+]
