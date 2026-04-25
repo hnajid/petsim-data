@@ -1,20 +1,14 @@
 [
-  {
-    "id": "code_1",
-    "code": "PETS99",
-    "reward": "Free rewards",
-    "status": "Active"
-  },
-  {
-    "id": "code_2",
-    "code": "LUCKYDAY",
-    "reward": "Luck boost",
-    "status": "Active"
-  },
-  {
-    "id": "code_3",
-    "code": "THANKYOU",
-    "reward": "Bonus gift",
-    "status": "Expired"
-  }
+  { "id": "code_1", "code": "pet-code99", "reward": "Exclusive in-game reward", "status": "Unverified" },
+  { "id": "code_2", "code": "pet-code2024", "reward": "Exclusive in-game reward", "status": "Unverified" },
+  { "id": "code_3", "code": "TitanicFireDragon", "reward": "Merch / exclusive reward", "status": "Unverified" },
+  { "id": "code_4", "code": "CatHoverboard", "reward": "Hoverboard / merch reward", "status": "Unverified" },
+  { "id": "code_5", "code": "DamagePotionV", "reward": "Potion reward", "status": "Unverified" },
+
+  { "id": "code_6", "code": "LuckyPotionV", "reward": "Potion reward", "status": "Expired" },
+  { "id": "code_7", "code": "BagOfDiamonds", "reward": "Diamonds reward", "status": "Expired" },
+  { "id": "code_8", "code": "ExclusiveDragonEgg", "reward": "Exclusive egg reward", "status": "Expired" },
+  { "id": "code_9", "code": "HugeCalestialDragon", "reward": "Huge pet reward", "status": "Expired" },
+  { "id": "code_10", "code": "HugeUnicornDragon", "reward": "Huge pet reward", "status": "Expired" },
+  { "id": "code_11", "code": "BallonHoverboard", "reward": "Hoverboard reward", "status": "Expired" }
 ]
